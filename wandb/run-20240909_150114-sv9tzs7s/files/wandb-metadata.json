@@ -1,0 +1,42 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-09-09T19:01:14.552731",
+    "startedAt": "2024-09-09T19:01:14.111025",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/nhassen/Documents/MLOPS/code/gihub/Potential-Energy-Flow-with-GFN/grid/distributional_flow.py",
+    "codePath": "grid/distributional_flow.py",
+    "git": {
+        "remote": "https://github.com/vincehass/Potential-Energy-Flow-with-GFN.git",
+        "commit": "0e513c83bf06368694bfbea58d5a6f2634e13f15"
+    },
+    "email": "nadhir.hassen@polymtl.ca",
+    "root": "/Users/nhassen/Documents/MLOPS/code/gihub/Potential-Energy-Flow-with-GFN",
+    "host": "6200L-210250-M.local",
+    "username": "nhassen",
+    "executable": "/Users/nhassen/opt/anaconda3/envs/gfn-qf/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 391.22922134399414
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

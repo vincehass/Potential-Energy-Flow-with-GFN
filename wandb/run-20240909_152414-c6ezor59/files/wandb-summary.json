@@ -1,0 +1,1 @@
+{"loss": -335.0249328613281, "diversity": 40.618951612903224, "num_modes": 0, "mean_reward": 1.0, "mean_error": 0.0, "_timestamp": 1725910097.421682, "_runtime": 242.9402618408203, "_step": 999, "_wandb": {"runtime": 242}}

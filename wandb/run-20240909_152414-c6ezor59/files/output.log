@@ -1,0 +1,11 @@
+
+Epoch 0, Loss: 27.826457977294922, Diversity: 34.63508064516129, Modes: 0, Mean Reward: 1.0
+Epoch 100, Loss: -78.49266052246094, Diversity: 36.76209677419355, Modes: 0, Mean Reward: 1.0
+Epoch 200, Loss: -289.22796630859375, Diversity: 39.16935483870968, Modes: 0, Mean Reward: 1.0
+Epoch 300, Loss: -350.4983825683594, Diversity: 37.042338709677416, Modes: 0, Mean Reward: 1.0
+Epoch 400, Loss: -341.6103820800781, Diversity: 35.67741935483871, Modes: 0, Mean Reward: 1.0
+Epoch 500, Loss: -388.3935852050781, Diversity: 37.45564516129032, Modes: 0, Mean Reward: 1.0
+Epoch 600, Loss: -335.1323547363281, Diversity: 41.108870967741936, Modes: 0, Mean Reward: 1.0
+Epoch 700, Loss: -357.82635498046875, Diversity: 37.12096774193548, Modes: 0, Mean Reward: 1.0
+Epoch 800, Loss: -384.33868408203125, Diversity: 45.11088709677419, Modes: 0, Mean Reward: 1.0
+Epoch 900, Loss: -320.97271728515625, Diversity: 54.76209677419355, Modes: 0, Mean Reward: 1.0
